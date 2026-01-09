@@ -6,8 +6,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- ===== Project Info ===== -->
-    <groupId>com.fixeddeposit</groupId>
-    <artifactId>fd-tracking</artifactId>
+    <groupId>com.petshop</groupId>
+    <artifactId>petshop-ordering</artifactId>
     <version>1.0.0</version>
     <packaging>war</packaging>
 
